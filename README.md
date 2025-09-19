@@ -1,5 +1,4 @@
 # prototipo-senai
-# prototipo-senai
 
 ## Membros do Grupo
 * Sara
